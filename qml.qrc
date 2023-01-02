@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/HMI/MainView/main.qml</file>
+        <file>Resources/HMI/Common/FileDialog.qml</file>
+        <file>Resources/Assets/Images/file.png</file>
+        <file>Resources/Assets/Images/folder.png</file>
+        <file>Resources/Assets/Images/folder(1).png</file>
+        <file>Resources/Assets/Images/cancel.png</file>
+        <file>Resources/HMI/Common/ButtonWidget.qml</file>
+        <file>Resources/Assets/Images/home.png</file>
+        <file>Resources/Assets/Images/return.png</file>
+    </qresource>
+</RCC>
